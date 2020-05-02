@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VIT Library</string>
+    <string name="title_home">Due Books</string>
+    <string name="title_dashboard">Library messages</string>
+    <string name="title_notifications">VIT messages</string>
+    <string name="sponsor">
+        <u>SPONSOR</u>
+    </string>
+</resources>

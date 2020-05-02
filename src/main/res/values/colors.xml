@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#22b14c</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="red">#ff0000</color>
+    <color name="red_dark">#e50000</color>
+
+    <color name="green">#00ff00</color>
+    <color name="green_dark">#00e500</color>
+    <color name="green_theme">#22b14c</color>
+    <color name="green_dark_compliment">#e500e5</color>
+
+    <color name="yellow">#ffff00</color>
+    <color name="yellow_dark">#ecec00</color>
+    <color name="yellow_analog">#ff8000</color>
+
+    <color name="blue">#0000ff</color>
+    <color name="lightBlue">#81d4fa</color>
+    <color name="purple">#7c26cb</color>
+    <color name="holo_purple">#ffaa66cc</color>
+</resources>
